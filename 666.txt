@@ -1,1 +1,2 @@
 sddsadsa
+syso("hello word")
